@@ -98,7 +98,7 @@
           </a>
       </li>
         <li>
-        <a href="https://github.com/Andra-chan/Software-Engineering">
+        <a href="https://github.com/Andra-chan/ISS">
          🔧  Software Engineering
         </a>
       </li>
