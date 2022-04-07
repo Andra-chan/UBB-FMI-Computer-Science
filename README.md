@@ -3,7 +3,7 @@
   <li>:open_file_folder: Semester 1
     <ul>
       <li>
-        <a href="https://github.com/Pufcorina/Algebra"> 
+        <a href="https://github.com/Andra-chan/Algebra"> 
           ➕  Algebra 
         </a>
       </li>
