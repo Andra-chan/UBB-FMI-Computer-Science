@@ -100,7 +100,7 @@
           </a>
       </li>
         <li>
-        <a href="https://github.com/Andra-chan/ISS">
+        <a href="https://github.com/Andra-chan/Software-Engineering">
          🔧  Software Engineering
         </a>
       </li>
