@@ -37,6 +37,11 @@
         </a>
       </li>
       <li>
+        <a href="https://github.com/Andra-chan/Dynamic-Systems"> 
+          📊  Dynamic Systems
+        </a>
+      </li>
+      <li>
         <a href="https://github.com/Andra-chan/Geometry"> 
           📐  Geometry 
         </a>
