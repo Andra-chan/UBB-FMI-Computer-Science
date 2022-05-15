@@ -13,8 +13,8 @@
         </a>
       </li>
       <li>
-        <a href="https://github.com/Andra-chan/Computer-Systems-Arhitecture"> 
-          👩‍💻  Computer Systems Arhitecture
+        <a href="https://github.com/Andra-chan/Computer-Systems-Architecture"> 
+          👩‍💻  Computer Systems Architecture
         </a>
       </li>
       <li>
