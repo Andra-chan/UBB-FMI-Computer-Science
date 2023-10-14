@@ -121,11 +121,74 @@
       </li>
     </ul>
   </li>
+  <li>:open_file_folder: Semester 5
+    <ul>
+      <li>
+        <a href="https://github.com/Andra-chan/Formal-Languages-and-Compiler-Design"> 
+          🌍 Formal Languages and Compiler Design
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Andra-chan/Human-Computer-Interaction"> 
+          🖱️  Human-Computer Interaction 
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Andra-chan/Mobile-Application-Development"> 
+          📱  Mobile Application Development
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Andra-chan/Parallel-and-Distributed-Programming"> 
+          ⛓️  Parallel and Distributed Programming
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Andra-chan/RPA"> 
+          🤖  Robotic Process Automation
+        </a>
+      </li>
+      <li>
+        <a href="https://gitlab.com/ubaby"> 
+          👋🏻  Team Project
+        </a>
+      </li>
+    </ul>
+  </li>
+  <li>:open_file_folder: Semester 6
+    <ul>
+      <li>
+        <a href="https://github.com/Andra-chan/Business-Intelligence"> 
+          ⚖️  Business Intelligence
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Andra-chan/History-of-Computer-Science"> 
+          📚  History of Computer Science 
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Andra-chan/Numerical-Calculus"> 
+          🧮  Numerical Calculus
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Andra-chan/Software-Project-Management"> 
+          💰  Software Project Management
+        </a>
+      </li>
+      <li>
+        <a href="https://github.com/Andra-chan/Software-Systems-Verification-and-Validation"> 
+          ✔️  Software Systems Verification and Validation
+        </a>
+      </li>
+    </ul>
+  </li>
 </ul>
 
 <br>
 <a href="http://www.cs.ubbcluj.ro">
-<img src="https://upload.wikimedia.org/wikipedia/en/d/d6/Babe%C5%9F-Bolyai_University_logo.png" alt="http://www.cs.ubbcluj.ro" />
+<img src="https://commons.wikimedia.org/wiki/File:Universitatea_Babes_Bolyai_Logo.jpg" alt="http://www.cs.ubbcluj.ro"/>
 <p> Babeş-Bolyai University of Cluj-Napoca </p>
 <p> Faculty of Mathematics and Computer Science </p>
 <p> Bachelor’s Degree in Computer Science </p>
